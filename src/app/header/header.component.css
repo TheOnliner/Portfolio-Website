@@ -1,0 +1,23 @@
+.nav-item{
+    font-size: large;
+   margin-inline: 8px;
+}
+li{
+    display: inline-flex;
+  }
+a{
+  color: rgb(136, 23, 87);
+  outline: aqua;
+}
+i{
+  font-size: 24px;
+  padding-right: 6px;
+  color: white;
+  margin-left: -2%;
+}
+.smooth-scroll{
+  color: white;
+}
+.navbar-brand {
+  color: white;
+}

@@ -1,0 +1,22 @@
+.row p{
+    font-weight: 700px;
+    color:rgb(42, 90, 212);
+    
+}
+img{
+    margin-top: 13%;
+    margin-left: -40px;
+    width: 110%;
+    height: 300%;
+}
+section{
+    margin-top: 8%;
+    margin-bottom: 2%;
+}
+.card-body{
+    margin-top: 10%;
+    margin-left: -4%;
+    height: 450px;
+    font-size:larger;
+    line-height: 50px;
+}

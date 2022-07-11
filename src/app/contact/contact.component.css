@@ -1,0 +1,21 @@
+.contact-card{
+    width: 400px;
+    text-align: center;
+    height: 250px;
+    margin-top: -45%;
+    font-family: 'Inter',sans-serif;
+   margin-left: 30%;
+}
+.testimonial-card{
+    width: 1000px;
+    height: 500px;
+    margin-right: 10%;
+    float: right;
+    
+    max-width: 100%;
+    overflow: hidden;
+    
+}
+.contact-card>form>h4{
+    font-family: 'Inter',sans-serif;
+}
